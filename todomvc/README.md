@@ -12,7 +12,7 @@ There also is a port handler set up in `index.html` to store the Elm application
 Run the following command from the root of this project:
 
 ```bash
-elm-make Todo.elm --output elm.js
+npm run build
 ```
 
 Then open `index.html` in your browser!
