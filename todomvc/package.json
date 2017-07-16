@@ -1,0 +1,12 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "All of the Elm code lives in `Todo.elm` and relies on the [elm-lang/html][html] library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "elm-make src/Todo.elm --output src/elm.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
