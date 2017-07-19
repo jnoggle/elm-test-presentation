@@ -1,2 +1,4 @@
 todomvc/elm-stuff
 todomvc/src/elm.js
+todomvc/node_modules
+todomvc/tests/elm-stuff
