@@ -19,15 +19,15 @@ Indicates a test that is not yet implemented. These will always fail, but the te
 ### Only
 Inverse of `skip`. Tagging tests with `only` cause "only" those tests to be ran, equivalent to tagging every other test with `skip`. Like `skip`, a test suite with tests tagged `only` will cause the whole enchilada to fail.
 
-## elm-architecture-test
-https://github.com/Janiczek/elm-architecture-test
-
-Fuzz-test the update function
-
 ## elm-html-test
 https://github.com/eeue56/elm-html-test
 
 Test the view function
+
+## elm-architecture-test
+https://github.com/Janiczek/elm-architecture-test
+
+Fuzz-test the update function
 
 ## arborist
 https://github.com/SamirTalwar/arborist

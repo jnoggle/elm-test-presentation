@@ -4,7 +4,7 @@
   "description": "All of the Elm code lives in `Todo.elm` and relies on the [elm-lang/html][html] library.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node node_modules/elm-test/bin/elm-test",
     "build": "elm-make src/Todo.elm --output src/elm.js"
   },
   "author": "",

@@ -1,4 +1,4 @@
-module Example exposing (..)
+module TodoMvcTests exposing (..)
 
 import Expect exposing (Expectation)
 import Fuzz exposing (Fuzzer, list, int, string, bool)
